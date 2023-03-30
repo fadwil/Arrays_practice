@@ -23,5 +23,7 @@ puts red_hair
 # It is important to note that counting starts with 0.
 # Therefore if I were to call on position 0 of the ticket_prices variable I would get 25.
 
-
-
+#To delete an particular element anywhere in an array I can use delete
+arr = [1, 2, 3, 4, 5]
+arr.delete(3)
+puts arr 
