@@ -18,3 +18,10 @@ puts account_balances
 # Unshift will add a new item to the beginning of the array
 red_hair.unshift(true)
 puts red_hair 
+
+# Index positions refer to the location of an element within an array.
+# It is important to note that counting starts with 0.
+# Therefore if I were to call on position 0 of the ticket_prices variable I would get 25.
+
+
+
